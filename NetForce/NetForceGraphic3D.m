@@ -7,16 +7,21 @@ StyleBox[\"n\", \"TI\"]\),{\!\(\*SubscriptBox[
 StyleBox[\"F\", \"TI\"], 
 StyleBox[\"1\", \"TR\"]]\),\!\(\*SubscriptBox[
 StyleBox[\"\[Theta]\", \"TI\"], 
-StyleBox[\"1\", \"TR\"]]\)},{\!\(\*SubscriptBox[
-StyleBox[\"F\", \"TI\"], 
+StyleBox[\"1\", \"TR\"]]\),\!\(\*SubscriptBox[
+StyleBox[\"\[Phi]\", \"TI\"], 
+StyleBox[\"1\", \"TR\"]]\)},{\!\(\*SubscriptBox[\(F\), 
 StyleBox[\"2\", \"TR\"]]\),\!\(\*SubscriptBox[
 StyleBox[\"\[Theta]\", \"TI\"], 
+StyleBox[\"2\", \"TR\"]]\),\!\(\*SubscriptBox[
+StyleBox[\"\[Phi]\", \"TI\"], 
 StyleBox[\"2\", \"TR\"]]\)},\!\(\*
 StyleBox[\"\[Ellipsis]\", \"TR\"]\){\!\(\*SubscriptBox[
 StyleBox[\"F\", \"TI\"], 
 StyleBox[\"n\", \"TI\"]]\),\!\(\*SubscriptBox[
 StyleBox[\"\[Theta]\", \"TI\"], 
-StyleBox[\"n\", \"TI\"]]\)}] 
+StyleBox[\"n\", \"TI\"]]\),\!\(\*SubscriptBox[
+StyleBox[\"\[Phi]\", \"TI\"], 
+StyleBox[\"n\", \"TR\"]]\)}] 
 evaluates the magnitudes \!\(\*SubscriptBox[
 StyleBox[\"F\", \"TI\"], 
 StyleBox[\"1\", \"TR\"]]\) to \!\(\*SubscriptBox[
